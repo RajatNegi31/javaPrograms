@@ -11,6 +11,7 @@ class basic1{
         factorial(5);
     }
 
+    //1
     public static void fibbo(int n){
 
         int n1=0;
@@ -33,6 +34,7 @@ class basic1{
 
     }
 
+    //2
     public static void prime_no(int b){
 
         int count=0;
@@ -53,7 +55,7 @@ class basic1{
         }
 
         }
-    
+    //3
     public static void palindrome(int n){
         //1221 2442
 
@@ -75,7 +77,7 @@ class basic1{
         }
     }
     
-
+//4
     public static void factorial(int n){
 
         int fact=1;
@@ -87,7 +89,7 @@ class basic1{
 
     }
     
-
+//5
     public static void armstrong(int n){
 
 
