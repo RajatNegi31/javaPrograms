@@ -6,7 +6,9 @@ public class num2 {
 
         //gcd(3,7);
         //gcd(150,300);
-        largest_no(-115,45,35);
+       // largest_no(-115,45,35);
+
+        sumOfNo(14);
 
     }
 
@@ -48,5 +50,15 @@ public class num2 {
         System.out.println(largest);
 
 
+    }
+
+
+    public static void sumOfNo(int n){
+
+        int sum=0;
+        for(int i=0;i<=n;i++){
+            sum=sum+i;
+        }
+        System.out.println(sum);
     }
 }
